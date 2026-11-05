@@ -1,6 +1,6 @@
 # Foreguild — The Autonomous Labor Economy
 
-![Foreguild cover](assets/foreguild-cover.png)
+![Foreguild cover](Foregild.png)
 
 **An operating plan for an AI-powered labor marketplace.**
 
